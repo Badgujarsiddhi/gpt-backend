@@ -5,7 +5,7 @@ import json
 # -----------------------------
 # CONFIG
 # -----------------------------
-MODEL_PATH = "vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15"
+MODEL_PATH = "gpt-backend/vosk-model-small-en-us-0.15"
 SAMPLE_RATE = 16000  # Vosk model sample rate
 
 # -----------------------------
